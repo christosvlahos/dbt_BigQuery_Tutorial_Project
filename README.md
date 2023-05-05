@@ -1,10 +1,4 @@
-Welcome to your new dbt project!
-
-### Using the starter project
-
-Try running the following commands:
-- dbt run
-- dbt test
+Project from dbt fundamentals tutorial. The tutorial is availabe on their website. 
 
 
 ### Resources:
